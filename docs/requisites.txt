@@ -1,0 +1,13 @@
+Requisitos:
+
+-> Cadastrar novo contato, usando AJAX(axio) e HTML Submit
+-> Buscar endereço pelo CEP(usar API dos Correios)
+-> Enviar notificação por email de forma assíncrona
+-> Categorização
+-> Sugestão quando for feita a busca de contatos
+-> Autenticação(validação no login)
+-> funcionar desktop e mobile
+-> Formulários devem ser validados no front e back
+-> importar contatos de uma API(Google contats)(EXTRA)
+-> Enviar link do repo do github
+
